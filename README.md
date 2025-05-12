@@ -1,9 +1,10 @@
-# Marketing-Metric-Dashboard
+# Special Olympics Internship Final Deliverables
 
-This is a dashboard to track month over month metrics for different channels
+1) Metrics dashboard for various marketing channels
+2) Analytics dashboard for "Do Something Special" campaign
 
 ## Channels:
 Email newsletter, Instagram, Facebook, Linkedin, Website
 
 ### Tools used:
-Tableau, Google Analytics, Meta Business Suite (Instagram and Facebook)
+Tableau, Google Analytics, Meta Business Suite (Instagram and Facebook), Google Tag Manager
