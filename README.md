@@ -7,4 +7,4 @@
 Email newsletter, Instagram, Facebook, Linkedin, Website
 
 ### Tools used:
-Tableau, Google Analytics, Meta Business Suite (Instagram and Facebook), Google Tag Manager
+Google Looker Studio, Google Analytics, Meta Business Suite (Instagram and Facebook), Google Tag Manager
